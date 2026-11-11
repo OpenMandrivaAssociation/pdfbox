@@ -1,2 +1,4 @@
 sources:
+  pdfbox-2.0.37.tar.gz: 41aab097dc9ae01297bb8d16f01d324da839e4b7
+removed_sources:
   pdfbox-1.8.7-src.zip: ba7f83a1db9e697bcd0d3613571e1b397968daf6
